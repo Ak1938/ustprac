@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	System.out.println("enter  num");
 	int a = sc.nextInt();
 	logger.info("num is "+a);
+	System.out.println("hi");
 	switch(a)
 	{
 	case 1:
